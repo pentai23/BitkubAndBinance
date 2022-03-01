@@ -1,5 +1,5 @@
-apikey = 'afadaasafsdfasdfafadaasafsdfasdf' 
-apisecret = b'afadaasafsdfasdfafadaasafsdfasdf'
+apikey = '7a047a9efb2b3db40d5c385ff9556bd6' 
+apisecret = b'03bd0111f5f9583f243d78c01e8740a1'
 
 #API KEY , API SECRET นำมาจากลิ้งค์นี้ https://www.bitkub.com/publicapi
 # ห้ามลบตัว b ออกหน้ารหัส ของ apisecret
